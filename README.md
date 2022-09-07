@@ -1,2 +1,2 @@
-# Full-Stack-Nozama-1
-Full-Stack Nozama with Nozama-API-1 &amp; e-Commerce-Site-Nozama-2 projects
+# Full-Stack-Nozama
+Full-Stack Nozama with Nozama-API &amp; e-Commerce-Site-Nozama-UI projects
